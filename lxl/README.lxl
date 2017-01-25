@@ -1,0 +1,5 @@
+scripts for getting and building shadowsocks-libev
+
+1. lxlsbinit.sh: init and update git submodule
+2. lxlsbupdate.sh: update git submoule
+3. lxlconf.sh: configure with  --disable-documentation
